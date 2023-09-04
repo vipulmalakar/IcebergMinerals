@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import IcebergLogo from "../assets/IcebergLogo2.png";
-import ShubhmanIndustryLogo from "../assets/ShubhmanIndustryLogo.png";
+import ShubhmanIndustryLogo from "../assets/ShubhmanIndustryLogo2.png";
 import styled from "styled-components";
 
 const Navbar = () => {
